@@ -105,6 +105,7 @@ if res==2:
     
     
     
+    
 #Data prediction with KNN
 
 #Prepare data
