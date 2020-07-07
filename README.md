@@ -10,7 +10,10 @@ References:
 
 Airbnb. (n.d.). In Wikipedia, the free encyclopedia. Retrieved December 13, 2019, from
 https://en.wikipedia.org/wiki/Airbnb (https://en.wikipedia.org/wiki/Airbnb)
+
 Dgomonov. (2019). New York City Airbnb Open Data: Airbnb Listings and Metrics in NYC, NY, USA (2019). Retrieved from https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+
 MuchNeeded. (n.d.). Airbnb by the Numbers: Usage, Demographics, and Revenue Growth. Retrieved from https://muchneeded.com/airbnb-statistics/ (https://muchneeded.com/airbnb-statistics/)
+
 New York City. (n.d.). In Wikipedia, the free encyclopedia. Retrieved December 13, 2019, from
 https://en.wikipedia.org/wiki/New_York_City (https://en.wikipedia.org/wiki/New_York_City)
