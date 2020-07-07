@@ -5,6 +5,7 @@ This is a class project for a intro-level data science course. This project anal
 
 The data of Airbnb in New York City has some very interesting patterns: private rooms are more popular, rooms in Manhattan are more expensive, et cetera. Among these we can see that for the people trying to start an Airbnb in NYC, it is very important for them to take features like price and avaliability into consideration. As we can observe obvious patterns in KNN predictions and the accuracy between KNN and Decision Tree Classifier (consider more features) are not very different, we can say that price and availability are two of the most important factors that decide whether the Airbnb will be popular.
 
+
 References
 Airbnb. (n.d.). In Wikipedia, the free encyclopedia. Retrieved December 13, 2019, from
 https://en.wikipedia.org/wiki/Airbnb (https://en.wikipedia.org/wiki/Airbnb)
