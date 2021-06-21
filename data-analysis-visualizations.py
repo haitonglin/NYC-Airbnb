@@ -1,9 +1,12 @@
 #import the libraries
 %matplotlib inline
-import matplotlib.pyplot as plt import seaborn; seaborn.set() import pandas as pd
+import matplotlib.pyplot as plt 
+import seaborn; seaborn.set() 
+import pandas as pd
 import numpy as np
 import seaborn as sns
-import matplotlib.mlab as mlab import warnings warnings.filterwarnings('ignore')
+import matplotlib.mlab as mlab 
+import warnings warnings.filterwarnings('ignore')
 
 
 #Dataset overview
