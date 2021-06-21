@@ -16,8 +16,11 @@ df.isna().sum()
 
 #Data visualization
 #Airbnb in different boroughs of NYC (pie chart)
-df1=df.groupby('neighbourhood_group').count().sort_values(by='id',ascending=False) x=list(df1[:5]['id'])
-y=[1,0,0,0,0] label=[df1.index[0],df1.index[1],df1.index[2],df1.index[3],df1.index[4]] plt.pie(x,labels=label)
+df1=df.groupby('neighbourhood_group').count().sort_values(by='id',ascending=False) 
+x=list(df1[:5]['id'])
+y=[1,0,0,0,0] 
+label=[df1.index[0],df1.index[1],df1.index[2],df1.index[3],df1.index[4]] 
+plt.pie(x,labels=label)
 plt.pie(y,radius=0.5,colors='w')
 plt.title('Airbnb distribution in five different boroughs') 
 plt.show()
