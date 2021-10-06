@@ -6,7 +6,8 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.mlab as mlab 
-import warnings warnings.filterwarnings('ignore')
+import warnings 
+warnings.filterwarnings('ignore')
 
 
 #Dataset overview
